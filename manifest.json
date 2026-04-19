@@ -1,0 +1,25 @@
+{
+  "name": "Korea Food · Vetted",
+  "short_name": "Vetted",
+  "description": "Triangulated restaurant guide — Seoul, Busan, Jeju. Every entry verified against DiningCode + KakaoMap + heritage signals.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#faf7f2",
+  "theme_color": "#1f1d1a",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

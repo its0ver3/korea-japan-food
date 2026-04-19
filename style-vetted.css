@@ -1,0 +1,80 @@
+/* Vetted-app overlays on top of style.css */
+
+.badge-vetted {
+  background: #2b6f3a;
+  color: #fff;
+}
+.badge-caveat {
+  background: #c37216;
+  color: #fff;
+}
+.badge-swap {
+  background: #6a4fb0;
+  color: #fff;
+}
+.badge-signal {
+  background: rgba(80, 80, 80, 0.14);
+  color: #333;
+  font-size: 11px;
+  margin: 2px 4px 2px 0;
+  padding: 2px 6px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.signals-list {
+  margin: 4px 0 12px;
+}
+.caveat-line {
+  color: #9a4400;
+  font-size: 13px;
+  margin: 6px 0 10px;
+}
+.card-flag-dot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  margin-left: 6px;
+  border-radius: 50%;
+  background: #c37216;
+  vertical-align: middle;
+}
+.drawer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 12px 0;
+}
+.drawer-links a {
+  flex: 1 1 auto;
+  min-width: 100px;
+  text-align: center;
+  background: #efe9df;
+  padding: 8px 10px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #1f1d1a;
+  font-size: 14px;
+}
+.drawer-links a.primary {
+  background: #2b6f3a;
+  color: #fff;
+}
+.drawer-meta-grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 6px 14px;
+  margin: 10px 0;
+  font-size: 14px;
+}
+.drawer-meta-grid dt {
+  font-weight: 600;
+  color: #444;
+}
+.drawer-meta-grid dd {
+  margin: 0;
+}
+.review-freshness {
+  font-size: 12px;
+  color: #666;
+  margin-top: 4px;
+}

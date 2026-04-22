@@ -6805,6 +6805,114 @@
       "verdict_reason": "Fills thin spot for Stone Park / Seonheul area (Spot 2) — located in Seonheul-ri, ~4km from Jeju Stone Park, right in the Geomunoreum / Stone Park cluster. DC 4.7 + Visit Jeju official listing + Lee Hyori endorsement. Homemade seawater tofu with son-grown ingredients. Strong veg-friendly option (검정콩국수, 두부전골, 고사리비빔밥). Caveats: closed Sundays, has a 40-min midday break, reservations recommended at peak. Day 11 is a weekday (Apr 29, 2026 Wed) so Sunday closure is not a conflict for this trip.",
       "is_replacement": false,
       "replaces_id": null
+    },
+    {
+      "id": "seoul-jjajang-yeonghwaru",
+      "name_ko": "영화루",
+      "name_romanized": "Yeonghwaru",
+      "city": "seoul",
+      "neighborhood": "Seochon / Nuha-dong",
+      "food_type": "noodles",
+      "category_ko": "중식 (노포)",
+      "address_ko": "서울특별시 종로구 자하문로7길 65 (누하동 25-1)",
+      "phone": "02-738-1218",
+      "hours": "매일 11:00-21:00 (브레이크 14:45-17:00, 라스트오더 20:15)",
+      "closure_day": "Tuesday",
+      "price_range_krw": "9,000-15,000",
+      "price_per_person_est": "~12,000",
+      "signature_dishes_ko": [
+        "고추간짜장",
+        "간짜장",
+        "짜장면",
+        "탕수육"
+      ],
+      "signature_dishes_en": [
+        "spicy gan-jjajang (with cheongyang chilies)",
+        "gan-jjajang",
+        "jjajangmyeon",
+        "sweet-and-sour pork"
+      ],
+      "lat": 37.5801579,
+      "lng": 126.969013,
+      "nearest_landmark": "Gyeongbokgung station exit 2 / Seochon",
+      "walking_minutes_from_landmark": 10,
+      "veg": "no",
+      "stage3_flags": [
+        "closure_day:Tuesdays — verify before visiting",
+        "break time 14:45-17:00",
+        "고추간짜장 uses real cheongyang peppers — spicy; order plain 간짜장 or 짜장면 for no-heat"
+      ],
+      "signals_passed": [
+        "diningcode:4.3/5.0, DaCoScore 84 (profile bvamuae5Ksaq)",
+        "heritage:~55-year noPo (est. ~1971), covered in Daum News 55-year feature",
+        "editorial:Siksin profile (P/319970) + Visit Korea (Korea Tourism Org) listing",
+        "commercial:Kurly (마켓컬리) sells branded 영화루 짜장 밀키트 — partner-only program, brand recognition signal",
+        "naver-freshness:multiple blog reviews dated 2026-04-20, 2026-04-19, 2026-04-18, 2026-04-11"
+      ],
+      "latest_naver_review_date": "2026-04-20",
+      "naver_url": "https://map.naver.com/p/search/%EC%98%81%ED%99%94%EB%A3%A8%20%EB%88%84%ED%95%98%EB%8F%99",
+      "diningcode_url": "https://www.diningcode.com/profile.php?rid=bvamuae5Ksaq",
+      "kakao_url": null,
+      "verdict": "KEEP",
+      "verdict_reason": "Classic ~55-year Seochon 노포 jjajangmyeon spot. DC 4.3 + Siksin + Visit Korea + Daum editorial + Kurly meal-kit partnership. Signature 고추간짜장 uses real cheongyang chilies (no synthetic capsaicin). Fresh April 2026 reviews confirm active operation. Sits on Day 3 route between Gyeongbokgung and Insadong — natural lunch slot swap. Closed Tuesdays; Day 3 (Sat 2026-04-25) and Day 5 (Mon 2026-04-27) both safe.",
+      "is_replacement": false,
+      "replaces_id": null,
+      "_source_chunk": "manual-add-2026-04-22"
+    },
+    {
+      "id": "seoul-jjajang-andongjang",
+      "name_ko": "안동장",
+      "name_romanized": "Andongjang",
+      "city": "seoul",
+      "neighborhood": "Euljiro 3-ga",
+      "food_type": "noodles",
+      "category_ko": "중식 (노포)",
+      "address_ko": "서울특별시 중구 을지로 124 (을지로3가 315-1)",
+      "phone": "02-2266-3814",
+      "hours": "월-금 11:30-21:00, 토-일 11:30-20:00",
+      "closure_day": null,
+      "price_range_krw": "8,000-37,000",
+      "price_per_person_est": "~15,000",
+      "signature_dishes_ko": [
+        "짜장면",
+        "간짜장",
+        "탕수육",
+        "꽃빵",
+        "만두"
+      ],
+      "signature_dishes_en": [
+        "jjajangmyeon (hand-pulled noodles)",
+        "gan-jjajang",
+        "sweet-and-sour pork",
+        "kkotppang (flower-shaped steamed bread)",
+        "mandu dumplings"
+      ],
+      "lat": 37.5661354,
+      "lng": 126.9915576,
+      "nearest_landmark": "Euljiro 3-ga station (Lines 2/3) exit 10",
+      "walking_minutes_from_landmark": 2,
+      "veg": "no",
+      "stage3_flags": [
+        "SEAFOOD: the famous dish here is 굴짬뽕 (oyster jjamppong) — SKIP. Order 짜장면, 간짜장, 탕수육, 꽃빵, or 만두 instead",
+        "weekend hours shorter (closes 20:00 Sat-Sun)"
+      ],
+      "signals_passed": [
+        "diningcode:3.9/5.0, score 79 (profile ol1j1ndyqngv)",
+        "heritage:est.1948 — oldest Chinese restaurant in Korea (~78yr, 3 generations)",
+        "heritage:Seoul Future Heritage (서울미래유산) designation + Blue Ribbon Survey 5 consecutive years",
+        "editorial:Rabbit Guide (레빗가이드) national #3 jjajangmyeon/jjamppong ranking (2026)",
+        "editorial:Trip.com 2026 feature ('75년 전통 을지로 최강 중국집') + Sugarman ep.99 + Newsis coverage",
+        "naver-freshness:blog reviews dated 2026-04-14, 2026-04-13, 2026-04-12, 2026-04-11"
+      ],
+      "latest_naver_review_date": "2026-04-14",
+      "naver_url": "https://map.naver.com/p/search/%EC%95%88%EB%8F%99%EC%9E%A5%20%EC%9D%84%EC%A7%80%EB%A1%9C",
+      "diningcode_url": "https://www.diningcode.com/profile.php?rid=ol1j1ndyqngv",
+      "kakao_url": null,
+      "verdict": "KEEP-WITH-CAVEAT",
+      "verdict_reason": "Korea's oldest Chinese restaurant (est.1948, ~78yr, 3 generations) with Seoul Future Heritage + Blue Ribbon 5-year repeat designation + Rabbit Guide national #3 jjajang/jjamppong (2026). DC 3.9 (lower than 영화루 but this is a historic heavyweight that attracts harsh critics). Famous for 굴짬뽕 which is seafood — SKIP that; order 짜장면/간짜장/탕수육/꽃빵/만두. Great Day 7 lunch before 12:25 KTX — Euljiro 3-ga is 3 stops from Seoul Station.",
+      "is_replacement": false,
+      "replaces_id": null,
+      "_source_chunk": "manual-add-2026-04-22"
     }
   ],
   "vetted_ids": [
@@ -6929,6 +7037,8 @@
     "thin-daepo-01",
     "thin-daepo-02",
     "thin-stone-01",
-    "thin-stone-02"
+    "thin-stone-02",
+    "seoul-jjajang-yeonghwaru",
+    "seoul-jjajang-andongjang"
   ]
 }
